@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+MM_findObj	.\testdisp.asp	/^function MM_findObj(n, d) { \/\/v4.01$/;"	f
+MM_goToURL	.\testdisp.asp	/^function MM_goToURL() { \/\/v3.0$/;"	f
+MM_preloadImages	.\testdisp.asp	/^function MM_preloadImages() { \/\/v3.0$/;"	f
+MM_swapImage	.\testdisp.asp	/^function MM_swapImage() { \/\/v3.0$/;"	f
+MM_swapImgRestore	.\testdisp.asp	/^function MM_swapImgRestore() { \/\/v3.0$/;"	f
+ary_qt2	.\testdisp.asp	/^redim ary_qt2(qt2) $/;"	v
+entrar1	.\testdisp.asp	/^function entrar1(){$/;"	f
+entrar2	.\testdisp.asp	/^function entrar2(){$/;"	f
+entrar3	.\testdisp.asp	/^function entrar3(){$/;"	f
+enviar	.\testdisp.asp	/^function enviar(){$/;"	f
+toggleGroup	.\testdisp.asp	/^function toggleGroup( obj, val ) {$/;"	f

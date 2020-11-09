@@ -1,0 +1,164 @@
+.e10
+{
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Arial
+}
+.e12
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Arial
+}
+.e15
+{
+    FONT-SIZE: 15px;
+    FONT-FAMILY: Arial
+}
+.eb10
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Arial
+}
+.eb12
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Arial
+}
+.eb15
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    FONT-FAMILY: Arial
+}
+.c12
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.c15
+{
+    FONT-SIZE: 15px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.cb12
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.cb15
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.c12lh20
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 20px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.c15lh25
+{
+    FONT-SIZE: 15px;
+    LINE-HEIGHT: 25px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.c16lh28
+{
+    FONT-SIZE: 16px;
+    LINE-HEIGHT: 28px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.c20lh32
+{
+    FONT-SIZE: 18px;
+    LINE-HEIGHT: 36px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px
+}
+.ma
+{
+    FONT-SIZE: 12px;
+    LINE-HEIGHT: 20px;
+    BACKGROUND-COLOR: #ffffff
+}
+.m0
+{
+    FONT-SIZE: 12px;
+    LINE-HEIGHT: 20px;
+    BACKGROUND-COLOR: #fffab3
+}
+.lh20
+{
+    LINE-HEIGHT: 20px
+}
+.lh24
+{
+    LINE-HEIGHT: 24px
+}
+A:link
+{
+    CURSOR: hand;
+    COLOR: #3366cc;
+    FONT-STYLE: normal;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #3366cc;
+    FONT-STYLE: normal;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #ff9600;
+    FONT-STYLE: normal;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: red;
+    FONT-STYLE: normal;
+    TEXT-DECORATION: underline
+}
+.queryback
+{
+  background:eeeebb;
+  FONT-SIZE: 12px;
+}
+.pk
+{
+  background:ccffdd
+}
+.Border1 {  font-family: "Arial";border-width: 1px; border-color: #000000}
+.c12border
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px;
+    border-width: 1px; border-color: #000000
+}
+
+.c12border1
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: "新細明體", "細明體";
+    LETTER-SPACING: 1px;
+    border-width: 1px; border-color: #66bb50
+}
+
+
+
+body {  font-family: "Arial"; font-size: 9pt; line-height: 140%; letter-spacing: 1pt;
+SCROLLBAR-FACE-COLOR: #cccccc; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #ffffff; 
+SCROLLBAR-3DLIGHT-COLOR: #000000; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #DDDDDD; SCROLLBAR-DARKSHADOW-COLOR:#000000}
